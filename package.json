@@ -1,6 +1,6 @@
 {
   "name": "randomapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RandomAPI is a super simple express API generating random numbers",
   "main": "index.js",
   "scripts": {
